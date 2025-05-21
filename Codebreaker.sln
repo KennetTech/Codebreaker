@@ -11,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codebreaker.GameAPIs.Models", "Codebreaker.GameAPIs.Models\Codebreaker.GameAPIs.Models.csproj", "{1B92B696-0E60-08C9-C315-6D4CE61096C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codebreaker.GameAPIs", "Codebreaker.GameAPIs\Codebreaker.GameAPIs.csproj", "{1EA53C23-7930-F035-54B2-4BE8B1740761}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1B92B696-0E60-08C9-C315-6D4CE61096C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B92B696-0E60-08C9-C315-6D4CE61096C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B92B696-0E60-08C9-C315-6D4CE61096C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EA53C23-7930-F035-54B2-4BE8B1740761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EA53C23-7930-F035-54B2-4BE8B1740761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EA53C23-7930-F035-54B2-4BE8B1740761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EA53C23-7930-F035-54B2-4BE8B1740761}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
